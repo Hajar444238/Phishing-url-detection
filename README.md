@@ -28,7 +28,6 @@
 - [Structure du projet](#-structure-du-projet)
 - [Bibliothèques utilisées](#-bibliothèques-utilisées)
 - [Perspectives](#-perspectives)
-- [Auteurs](#-auteurs)
 
 ---
 
@@ -64,9 +63,6 @@ df['status'].value_counts()
 # 0 (Légitime) : 5715
 # 1 (Phishing) : 5715
 ```
-
-> ⚠️ Le fichier `dataset_phishing.csv` n'est pas inclus dans ce dépôt en raison de sa taille.  
-> Vous pouvez le télécharger sur [Kaggle — Web Page Phishing Detection](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset).
 
 ---
 
@@ -272,7 +268,7 @@ Téléchargez `dataset_phishing.csv` depuis [Kaggle](https://www.kaggle.com/data
 ### 4. Lancer le notebook
 
 ```bash
-jupyter notebook Phishing_ML.ipynb
+google colab notebook Phishing_ML.ipynb
 ```
 
 ---
