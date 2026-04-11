@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Projet Machine Learning — ESI 2024–2025</b><br/>
+  <b>Projet Machine Learning</b><br/>
 
 </p>
 
@@ -26,7 +26,6 @@
 - [Résultats détaillés](#-résultats-détaillés)
 - [Meilleur modèle](#-meilleur-modèle--svm-rbf)
 - [Structure du projet](#-structure-du-projet)
-- [Installation & Utilisation](#-installation--utilisation)
 - [Bibliothèques utilisées](#-bibliothèques-utilisées)
 - [Perspectives](#-perspectives)
 - [Auteurs](#-auteurs)
@@ -252,12 +251,6 @@ phishing-url-detection/
 
 ---
 
-## 🚀 Installation & Utilisation
-
-### Prérequis
-
-- Python 3.10+
-- Jupyter Notebook ou JupyterLab
 
 ### 1. Cloner le dépôt
 
@@ -311,5 +304,5 @@ ydata-profiling # EDA automatisée
 ---
 
 <p align="center">
-  Projet réalisé dans le cadre du cours <b>Machine Learning en Sécurité Informatique</b> — ESI 2024–2025
+  Projet réalisé dans le cadre du cours <b>Machine Learning en Sécurité Informatique</b>
 </p>
